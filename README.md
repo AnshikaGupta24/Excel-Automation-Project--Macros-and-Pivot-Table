@@ -15,16 +15,25 @@ Demo video link included for better understanding
 
 ## 🛠 Technologies Used
 1. Microsoft Excel (with Macros enabled)
+
 2.VBA (Visual Basic for Applications)
+
 3.Pivot Tables & Pivot Charts
 
-📽 Demo
+## 📽 Demo:
+https://github.com/AnshikaGupta24/Excel-Automation-Project--Macros-and-Pivot-Table/blob/main/Dashboard%20View.png
+
+You can view the demonstration on LinkedIn
+https://www.linkedin.com/posts/anshika-gupta-3b0598266_excelmacros-pivottable-dataautomation-activity-7354889227085533185-rSdH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEE57TQBmaNX3tXDa3NuIo9fof44yr4QZLU
 
 
-📌 How to Use
+## 📌 How to Use
 1.Clone the repository or download the .xlsm file.
+
 2.Open the file in Microsoft Excel (enable macros when prompted).
+
 3.Explore the pivot table reports and use the macro buttons for automation.
+
 4.Customize the VBA code as needed for your own datasets.
 
 
