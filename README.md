@@ -14,7 +14,7 @@ Clean and modular VBA code for easy customization
 Demo video link included for better understanding
 
 ## 🛠 Technologies Used
-1. Microsoft Excel (with Macros enabled)
+1.Microsoft Excel (with Macros enabled)
 
 2.VBA (Visual Basic for Applications)
 
